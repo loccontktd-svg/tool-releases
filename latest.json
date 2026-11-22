@@ -1,0 +1,16 @@
+{
+ "v": 1,
+ "tools": {
+  "affiliate": {
+   "version": "20261122-1624",
+   "notes": "Bản thử cập nhật (GitHub)",
+   "file_name": "affiliate_update_20261122-1624.zip",
+   "url": "https://github.com/loccontktd-svg/tool-releases/releases/download/affiliate-v20261122-1624/affiliate_update_20261122-1624.zip",
+   "sha256": "458e74f58e3617bb33142d355349f6c0be91ed648f0464e642c6677182bd7801",
+   "size": 510334,
+   "mandatory": false,
+   "s": "HwMPBtu5l0Vl1IaWzE8v80e-MW5kJRmmNVf57eNTSptJjFWFKTQO8vV4jESE6VhhnKpqloAM6VtQaYyOUunsAA"
+  }
+ },
+ "updated": 1795339449705
+}
